@@ -11,7 +11,7 @@ Professionally, I write code for VMware R&D. I also code for myself, from automa
   
 ### More about me:
 
-- I have a YouTube channel where I try my best to share knowledge on code <a href="https://www.youtube.com/channel/UCbsI5Rw9_yLccfoMEYYxDCg">
+- I have a YouTube channel where I try my best to share knowledge on code<a href="https://www.youtube.com/channel/UCbsI5Rw9_yLccfoMEYYxDCg">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -20,8 +20,6 @@ Professionally, I write code for VMware R&D. I also code for myself, from automa
 - Member [@Preflet](https://github.com/preflet), a start-up which aims to bring one-click ML to the masses
 - Breaking Bad is the best TV show on the planet (go ahead, try to change my mind)
 
-
-<details>
 
 ### GitHub Stats
 
