@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SouravJohar.visitor-badge)
 
 ```
-$ alias cd='rm -rf'
+Stay at `127.0.0.1`, wear a `255.255.255.0`
 ```
 Professionally, I write code for VMware R&D. I also code for myself, from automating some of my workflows to working on full-blown projects. You can find some interesting ones on Computer Vision, Deep Learning and Game AIs in my GitHub profile. 
 
